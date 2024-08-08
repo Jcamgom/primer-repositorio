@@ -1,2 +1,2 @@
-# primer-repositorio
+# primer-README
 Mi primer repositorio
